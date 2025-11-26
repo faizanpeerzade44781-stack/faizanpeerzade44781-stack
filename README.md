@@ -49,7 +49,7 @@ I enjoy solving real-world problems through analytics and continuously improving
 - Created KPIs: **Customer Lifetime Value, Repeat Purchase Rate, Average Basket Size**  
 - Built an interactive Power BI dashboard  
 - Generated insights to understand customer behavior and trends  
-🔗 **Repository:** *(Add your GitHub repo link here)*  
+🔗 **Repository:**  *(Add your GitHub repo link here)*  
 
 ---
 
