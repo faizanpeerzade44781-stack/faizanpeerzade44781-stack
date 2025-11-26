@@ -32,7 +32,8 @@ I enjoy solving real-world problems through analytics and continuously improving
 - Power Query  
 
 ### **Databases**
-- MySQL  
+- MySQL
+- SQL Server
 
 ### **Tools**
 - Git  
