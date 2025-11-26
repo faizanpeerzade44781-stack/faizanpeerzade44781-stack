@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m Sayed Peerzade</h1>
+<h1 align="center">👋 Hi, I’m Sayed Faizan Peerzade</h1>
 <h3 align="center">Data Analyst | Python | SQL | Power BI | Excel | Pandas | NumPy</h3>
 
 ---
