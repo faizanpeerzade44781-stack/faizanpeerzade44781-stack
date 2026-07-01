@@ -1,10 +1,4 @@
- ============================================================
-  GITHUB PROFILE README — faizanpeerzade44781-stack
-  This file must live in a repo named EXACTLY your username:
-  faizanpeerzade44781-stack/faizanpeerzade44781-stack/README.md
-  GitHub auto-renders it at the top of your profile.
-  ============================================================
--->
+ 
 
 <div align="center">
 
