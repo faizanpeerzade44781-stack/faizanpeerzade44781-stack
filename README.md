@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- ANIMATED BANNER — replace with your own on capsule-render.vercel.app if you want different colors/text -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Sayed%20Faizan%20Peerzade&fontSize=42&fontColor=ffffff&desc=Data%20Analyst%20%7C%20SQL%20%C2%B7%20Python%20%C2%B7%20Power%20BI%20%C2%B7%20Excel&descSize=18&descAlignY=62&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Sayed%20Faizan%20Peerzade&fontSize=42&fontColor=ffffff&desc=Data%20Analyst%20%7C%20SQL%20%C2%B7%20Python%20%C2%B7%20Power%20BI%20%C2%B7%20Excel&descSize=18&descAlignY=75&animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
