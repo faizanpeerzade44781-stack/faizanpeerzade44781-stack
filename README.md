@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Sayed%20Faizan%20Peerzade&fontSize=40&fontColor=ffffff&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20SQL%20%C2%B7%20Python%20%C2%B7%20Power%20BI&descSize=17&descAlignY=64&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=230&section=header&text=Sayed%20Faizan%20Peerzade&fontSize=40&fontColor=ffffff&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20SQL%20%C2%B7%20Python%20%C2%B7%20Power%20BI&descSize=17&descAlignY=70&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1200&color=2C5364&center=true&vCenter=true&width=680&lines=Turning+raw+data+into+revenue+decisions;2%2B+Years+%7C+SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+Excel;5+End-to-End+Analytics+Projects+Shipped;Open+to+Data+%2F+BI+Analyst+Roles+%E2%80%94+Bangalore" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1200&color=2A5298&center=true&vCenter=true&width=680&lines=Turning+raw+data+into+revenue+decisions;2%2B+Years+%7C+SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+Excel;5+End-to-End+Analytics+Projects+Shipped;Open+to+Data+%2F+BI+Analyst+Roles+%E2%80%94+Bangalore" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayed-peerzade-82377a24a)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizanpeerzade44781@gmail.com)
-[![Followers](https://img.shields.io/github/followers/faizanpeerzade44781-stack?style=for-the-badge&label=Followers&color=2C5364&logo=github)](https://github.com/faizanpeerzade44781-stack)
-[![Profile Views](https://komarev.com/ghpvc/?username=faizanpeerzade44781-stack&style=for-the-badge&color=203A43&label=Profile+Views)](https://github.com/faizanpeerzade44781-stack)
+[![Followers](https://img.shields.io/github/followers/faizanpeerzade44781-stack?style=for-the-badge&label=Followers&color=1e3c72&logo=github)](https://github.com/faizanpeerzade44781-stack)
+[![Profile Views](https://komarev.com/ghpvc/?username=faizanpeerzade44781-stack&style=for-the-badge&color=2a5298&label=Profile+Views)](https://github.com/faizanpeerzade44781-stack)
 [![Open to Work](https://img.shields.io/badge/Open_to_Work-Data%20%2F%20BI%20Analyst-brightgreen?style=for-the-badge&logo=briefcase&logoColor=white)](#-open-to-work)
 [![Availability](https://img.shields.io/badge/Availability-Immediate%20Joiner-orange?style=for-the-badge&logo=clockify&logoColor=white)](#-open-to-work)
 
@@ -339,6 +339,6 @@ Data Analyst with 2 years of experience turning raw, messy datasets into KPIs, d
 
 *"In God we trust. All others must bring data." — W. Edwards Deming*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer" width="100%"/>
 
 </div>
