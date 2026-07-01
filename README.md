@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=230&section=header&text=Sayed%20Faizan%20Peerzade&fontSize=40&fontColor=ffffff&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20SQL%20%C2%B7%20Python%20%C2%B7%20Power%20BI&descSize=17&descAlignY=70&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=230&section=header&text=Sayed%20Faizan%20Peerzade&fontSize=40&fontColor=ffffff&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20SQL%20%C2%B7%20Python%20%C2%B7%20Power%20BI&descSize=17&descAlignY=64&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1200&color=2A5298&center=true&vCenter=true&width=680&lines=Turning+raw+data+into+revenue+decisions;2%2B+Years+%7C+SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+Excel;5+End-to-End+Analytics+Projects+Shipped;Open+to+Data+%2F+BI+Analyst+Roles+%E2%80%94+Bangalore" alt="Typing SVG"/>
